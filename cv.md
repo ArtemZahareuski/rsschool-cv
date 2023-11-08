@@ -45,3 +45,15 @@ function Example(array) {
 # Work Experience
 **Beltelecom | 2022 (3 month)**
 Undergraduate practice. Development of a web application for customer accounting. Stack: HTML,CSS, JavaScript, PHP, SQL.
+
+# Languages
+
+* **Russian** (native)
+* **English** B1 (Intermediate)
+
+# English 
+**B1 (Intermediate)**. I improve my language level through courses _English Papa_
+
+# Certificates
+
+* [EF SET English Certificate](https://www.efset.org/cert/oNvbsq): **42/100 B1 (Intermediate)** 
