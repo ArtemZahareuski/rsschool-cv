@@ -1,0 +1,15 @@
+## [rsschool-cv](rsschool-cv)
+
+# Artsiom Zakhareuski
+
+# My Contact Info
+
+* **Phone:** +375 (44) 753-48-01
+* **E-mail:** [artemzaharevsky@gmail.com](artemzaharevsky@gmail.com)
+* **LinkedIn:** [Artsiom Zakhareuski](https://www.linkedin.com/in/azaaaart/)
+* **GitHub:** [ArtemZahareuski](https://github.com/ArtemZahareuski)
+* **Discord** [ArtemZaharevski#2424](ArtemZaharevski#2424)
+
+# Summary
+
+My name is Artem, I'm 21 years old and I'm a front-end developer. I love to travel, play sports. My hobbies are board games. The desire to understand how modern technologiesare arranged inside brought me to the IT sphere. I was interested in front-end development because I always wanted to create web applications, as well as create avisual. Now I study a lot and try to improve my skills by reading various articles, watching video tutorials and of course practicing. I also take English courses to improve my level.
