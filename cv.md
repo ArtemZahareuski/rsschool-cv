@@ -23,3 +23,12 @@ My name is Artem, I'm 21 years old and I'm a front-end developer. I love to trav
 * ReactJs
 * MySQL
 * Git & GitHub
+
+# Code Example
+
+```js
+function Example(array) {
+  let result = array.map(item => item ** 2);
+  return result;
+}
+```
