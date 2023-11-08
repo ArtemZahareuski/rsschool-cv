@@ -33,3 +33,15 @@ function Example(array) {
   return result;
 }
 ```
+# Education 
+
+* **Belarusian State Academy of Communications**
+  * Telecommunications specialist
+2019/2022
+* **Belarusian State University of Informatics and Radioelectronics**
+  * Bachelor, Telecommunications Engineer
+2023/2028
+
+# Work Experience
+**Beltelecom | 2022 (3 month)**
+Undergraduate practice. Development of a web application for customer accounting. Stack: HTML,CSS, JavaScript, PHP, SQL.
