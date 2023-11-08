@@ -13,3 +13,13 @@
 # Summary
 
 My name is Artem, I'm 21 years old and I'm a front-end developer. I love to travel, play sports. My hobbies are board games. The desire to understand how modern technologiesare arranged inside brought me to the IT sphere. I was interested in front-end development because I always wanted to create web applications, as well as create avisual. Now I study a lot and try to improve my skills by reading various articles, watching video tutorials and of course practicing. I also take English courses to improve my level.
+
+# Skills
+
+* HTML
+* CSS
+* JavaScript (fundamentals, ES6+, DOM)
+* Sass, Scss
+* ReactJs
+* MySQL
+* Git & GitHub
