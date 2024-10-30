@@ -47,7 +47,7 @@ Undergraduate practice. Development of a web application for customer accounting
 * **Belarusian State University of Informatics and Radioelectronics**
   * Bachelor, Telecommunications Engineer
 2023/2028
-* **RSSchool JavaScript/Front-end 2023Q4 | (4 month)**
+* **RSSchool JavaScript/Front-end 2023Q4 (4 month)**
   * Front-end development with use HTML/CSS/JavaScript and other technologies **(only the first stage is completed)**
 
 ## English 
